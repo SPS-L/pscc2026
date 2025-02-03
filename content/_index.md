@@ -44,7 +44,7 @@ sections:
       title: "Call for Papers ends in"
       text: ""
       text_after: ""
-      date: '2025-06-01 00:00:00'
+      date: '2025-06-30 00:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
@@ -133,20 +133,6 @@ sections:
         {style="padding-top: 2rem"}
 
         {{< table path="schedule.csv" header="true" >}}
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Alice Smith"
-          role: "Researcher at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "It has to be the most insightful conference I've ever attended!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
   - block: logos
     content:
       title: "Sponsors Making This Possible"

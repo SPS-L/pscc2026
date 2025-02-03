@@ -66,3 +66,7 @@ extensions:
   convertkit:
     # To use the ConvertKit Newsletter blox, provide your public API Key from your ConvertKit account settings page
     api_key: ""
+
+features:
+  privacy_pack:
+    enable: true
