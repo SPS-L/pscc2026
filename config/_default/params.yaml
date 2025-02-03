@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.jpg"
     button:
       enable: true
       text: "Get Tickets"
@@ -49,17 +49,17 @@ footer:
   blox: "sitemap"
   content:
     logo:
-      text: "AI SUMMIT 2024"
+      text: "PSCC2026"
     tagline: "BUILD THE FUTURE TOGETHER WITH AI"
   design:
     columns: 4
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} PSCC'
 
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:10'
 
 # Extensions
 extensions:
