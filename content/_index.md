@@ -44,7 +44,7 @@ sections:
       title: "Call for Papers ends in"
       text: ""
       text_after: ""
-      date: '2025-30-06 00:00:00'
+      date: '2025-06-30 00:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
