@@ -42,7 +42,7 @@ header:
     highlight_active_link: false
     logo:
       # Logo text
-      text: ""
+      text: "PSCC 2026"
       # Logo filename in `assets/media/` folder
       filename: "logo.png"
 
