@@ -11,7 +11,7 @@ sections:
   - block: hero-with-stats
     content:
       title: PSCC 2026
-      text: ""
+      text: "XXIV Power Systems Computation Conference"
       details: "The Power Systems Computation Conference addresses theoretical developments and computational aspects with respect to power systems applications. There is an emphasis on modelling and simulation for understanding a system of components, plants or actors, the interactions between them and their collective behaviour, and methods to inform decision-making in power systems.\n\n Contributions might comment on the analytical techniques, modelling challenges and complex software engineering issues, or what the analyses say in respect of today’s and future power systems challenges. Thus, papers from utility and manufacturing industry engineers are just as welcome as those from academic researchers. \n\n Information on the previous edition can be found at [PSCC2024 – Power Systems Computation Conference](https://pscc2024.fr/)"
       primary_action:
         text: Call for Papers
