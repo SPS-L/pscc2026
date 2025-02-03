@@ -56,7 +56,6 @@ sections:
     content:
       title: Important Dates
       text: |
-        {style="padding-top: 2rem"}
         |June 30th, 2025|:Deadline for submission of one-page abstracts.|
         |October 1st, 2025|:Deadline for full paper submission.|
         |February 1st, 2026|:Authors notified about acceptance and required modifications.|

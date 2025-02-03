@@ -4,14 +4,24 @@
 # Docs: https://gohugo.io/content-management/menus/#define-in-site-configuration
 
 main:
-  - name: Home
+  - name: Call for Papers
     url: /#top
     weight: 10
-  - name: About
-    url: /#about
+  - name: Committees
+    url: /#top
     weight: 20
-  - name: Speakers
-    url: /#speakers
+  - name: Program
+    url: /#top
     weight: 30
-  - name: Agenda
-    url: /#agenda
+  - name: Registration
+    url: /#top
+  - name: Social Events
+    url: /#top
+  - name: Local Information
+    url: /#top
+  - name: Accommodation
+    url: /#top
+  - name: Sponsors
+    url: /#top
+  - name: Contact us
+    url: /#top
