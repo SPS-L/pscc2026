@@ -80,7 +80,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/SPS-L/pscc2026/'
     content_dir: content
