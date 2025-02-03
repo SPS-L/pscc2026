@@ -46,13 +46,6 @@ header:
 
 # Site footer
 footer:
-  blox: "sitemap"
-  content:
-    logo:
-      text: "PSCC2026"
-    tagline: ""
-  design:
-    columns: 4
   copyright:
     notice: '© {year} PSCC 2026'
 
