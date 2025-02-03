@@ -1,10 +1,9 @@
-module github.com/HugoBlox/theme-conference
+module github.com/wowchemy/starter-hugo-research-group
 
-go 1.19
+go 1.15
 
 require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240601182712-2b11b7e9fbf5
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.1
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20241012174104-661cadc17327
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20231108143325-448ed0e3bd2b
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240509231741-c3d23d929bc6
 )
-
-// require github.com/HugoBlox/all-access/blox-all-access v0.0.0-20240505232004-18bca4e405b0

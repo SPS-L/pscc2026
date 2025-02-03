@@ -1,7 +1,7 @@
 # Navigation Links
-#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
-#   The `weight` parameter defines the order that the links will appear in.
-# Docs: https://gohugo.io/content-management/menus/#define-in-site-configuration
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
 
 main:
   - name: Call for Papers
@@ -15,13 +15,19 @@ main:
     weight: 30
   - name: Registration
     url: /#top
+    weight: 40
   - name: Social Events
     url: /#top
+    weight: 50
   - name: Local Information
     url: /#top
+    weight: 60
   - name: Accommodation
     url: /#top
+    weight: 70
   - name: Sponsors
     url: /#top
+    weight: 80
   - name: Contact us
     url: /#top
+    weight: 90

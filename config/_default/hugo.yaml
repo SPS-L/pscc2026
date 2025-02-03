@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Power Systems Computational Conference 2026 # Website name
+title: XXIV Power Systems Computation Conference # Website name
 baseURL: 'https://pscc2026.cy/' # Website URL
 
 ############################
@@ -19,8 +19,6 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-build:
-  writeStats: true
 enableGitInfo: false
 summaryLength: 30
 pagination:
@@ -33,23 +31,32 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 95
+  quality: 75
   anchor: smart
 timeout: 600000
 taxonomies:
   tag: tags
   category: categories
+  publication_type: publication_types
   author: authors
 markup:
   _merge: deep
-  highlight:
-    lineNos: false
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
 security:
   _merge: deep
 sitemap:
