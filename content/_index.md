@@ -10,22 +10,22 @@ design:
 sections:
   - block: hero-with-stats
     content:
-      title: AI SUMMIT 2024
-      text: "**BUILD THE FUTURE TOGETHER WITH AI**"
-      details: "May 16, 2024. \n\nEasily create your conference website with [Hugo Blox](https://hugoblox.com/templates/)"
+      title: PSCC 2026
+      text: ""
+      details: "The Power Systems Computation Conference addresses theoretical developments and computational aspects with respect to power systems applications. There is an emphasis on modelling and simulation for understanding a system of components, plants or actors, the interactions between them and their collective behaviour, and methods to inform decision-making in power systems.\n\n Contributions might comment on the analytical techniques, modelling challenges and complex software engineering issues, or what the analyses say in respect of today’s and future power systems challenges. Thus, papers from utility and manufacturing industry engineers are just as welcome as those from academic researchers. \n\n Information on the previous edition can be found at [PSCC2024 – Power Systems Computation Conference](https://pscc2024.fr/)"
       primary_action:
-        text: Get Tickets
-        url: https://www.eventbrite.com/
+        text: Call for Papers
+        url: https://pscc2026.cy/call
         icon: ticket
       items:
         - name: "Speakers"
-          description: "300+"
+          description: "240"
         - name: "Attendees"
-          description: "4,000+"
+          description: "400+"
         - name: "Venue"
-          description: "Moscone Center"
+          description: "St Raphael Resort"
         - name: "Location"
-          description: "San Francisco"
+          description: "Limassol, Cyprus"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -41,10 +41,10 @@ sections:
 #            brightness: 1.0
   - block: countdown
     content:
-      title: "Hurry, Limited Availability"
-      text: "EARLY BIRD PRICING ENDS IN"
-      text_after: "SAVE UP TO $1,000!"
-      date: '2000-01-01 00:00:00'
+      title: "Call for Papers ends in"
+      text: ""
+      text_after: ""
+      date: '2025-06-01 00:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
@@ -73,16 +73,53 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: people
-    id: speakers
+  - block: experience
     content:
-      title: Speakers
-      text: ""
-      user_groups: ['Speakers']
+      title: Important Dates
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2, 2006
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: 
+          company: Deadline for submission of one-page abstracts
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2025-06-30'
+          date_end: '2025-06-30'
+          description: ''
+        - title: 
+          company: Deadline for full paper submission
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2025-10-01'
+          date_end: '2025-10-01'
+          description: ''
+        - title: 
+          company: Authors notified about acceptance and required modifications
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2026-02-01'
+          date_end: '2026-02-01'
+          description: ''
+        - title: 
+          company: Final manuscript submission. 
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2026-03-15'
+          date_end: '2026-03-15'
+          description: ''
     design:
-      show_role: true
-      show_social: true
-      show_interests: false
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   - block: markdown
     id: agenda
     content:
