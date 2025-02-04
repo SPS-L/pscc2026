@@ -26,7 +26,7 @@ sections:
       cta_note:
         label:       
       # Add your Hero text here
-      text: "8-12 June, 2026\nLimassol, Cyprus\n\n"
+      text: "8-12 June, 2026\n\nLimassol, Cyprus\n\n"
     design:
       css_class: dark
       # Choose an optional background color, gradient, image, or video
