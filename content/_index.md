@@ -27,8 +27,8 @@ sections:
         label:       
       # Add your Hero text here
       text: |-
-        <br>      
-        <br>
+        <br>8-12 June, 2026      
+        <br>Limassol, Cyprus
         <br>
     design:
       css_class: dark
