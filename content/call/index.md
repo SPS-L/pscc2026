@@ -1,8 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Call for Papers
-date: 2024-11-24
-type: page
+date: 2025-01-24
+type: landing
 
 sections:
 
