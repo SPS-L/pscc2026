@@ -21,7 +21,7 @@ Contributions might comment on the analytical techniques, modelling challenges a
 
 The following list of topics is not exhaustive but is offered to help prospective authors identify what is likely to be in scope.
 
-### Assessment of system issues in the presence of uncertainty or unbundling
+**Assessment of system issues in the presence of uncertainty or unbundling**
 
 - Power system planning and operation
 - Asset management
@@ -31,7 +31,7 @@ The following list of topics is not exhaustive but is offered to help prospectiv
 - Impact and management of extreme events
 - Pathways to zero carbon electricity systems
 
-### Power system modeling, analysis, operation and control
+**Power system modeling, analysis, operation and control**
 
 - Blackout prevention, system resilience and restoration
 - Control centre technologies and advanced operator tools
@@ -50,13 +50,13 @@ The following list of topics is not exhaustive but is offered to help prospectiv
 - System integration and utilisation of energy storage systems
 - System integration of grid-connected power-electronic converters
 
-### Integrated modelling and operation of information and communication technologies (ICT) in power systems
+**Integrated modelling and operation of information and communication technologies (ICT) in power systems**
 
 - Cyber security in power systems operation and control
 - ICT-driven intelligent and autonomous controls
 - Modelling of cyber-physical energy and communication systems
 
-### Data analysis and computation
+**Data analysis and computation**
 
 - Data-driven modelling techniques for power systems
 - Machine learning, statistics and computational intelligence
