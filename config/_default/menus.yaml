@@ -5,29 +5,29 @@
 
 main:
   - name: Call for Papers
-    url: /#top
+    url: /call
     weight: 10
   - name: Committees
-    url: /#top
+    url: /committees
     weight: 20
   - name: Program
-    url: /#top
+    url: /#program
     weight: 30
   - name: Registration
-    url: /#top
+    url: /registration
     weight: 40
-  - name: Social Events
-    url: /#top
-    weight: 50
-  - name: Local Information
-    url: /#top
-    weight: 60
-  - name: Accommodation
-    url: /#top
-    weight: 70
-  - name: Sponsors
-    url: /#top
-    weight: 80
+#  - name: Social Events
+#    url: /#top
+#    weight: 50
+#  - name: Local Information
+#    url: /#top
+#    weight: 60
+#  - name: Accommodation
+#    url: /#top
+#    weight: 70
+#  - name: Sponsors
+#    url: /#top
+#    weight: 80
   - name: Contact us
-    url: /#top
+    url: 'mailto:pscc2026@sps-lab.org'
     weight: 90
