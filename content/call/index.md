@@ -6,41 +6,8 @@ type: landing
 
 sections:
 
-  - block: hero
-    content:
-      title: Call for Papers
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: 
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: 
-        url: 
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: 
-        url: 
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label:       
-      # Add your Hero text here
-      text: ""
-    design:
-      css_class: dark
-      # Choose an optional background color, gradient, image, or video
-      background:
-        image:
-          # Add your image background to `assets/media/`.
-          filename: img/pylons.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: true
   - block: markdown
-    id: about
+    id: scope
     content:
       title: Conference scope
       subtitle: 
