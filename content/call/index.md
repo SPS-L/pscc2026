@@ -2,13 +2,13 @@
 # Leave the homepage title empty to use the site title
 title: Call for Papers
 date: 2024-11-24
-type: landing
+type: page
 
 sections:
 
   - block: hero
     content:
-      title: XXIV Power Systems Computation Conference
+      title: Call for Papers
       image:
         # Reference an image in your `assets/media/` folder
         filename: 
@@ -26,7 +26,7 @@ sections:
       cta_note:
         label:       
       # Add your Hero text here
-      text: "8-12 June, 2026\n\nLimassol, Cyprus\n\n"
+      text: ""
     design:
       css_class: dark
       # Choose an optional background color, gradient, image, or video
@@ -48,5 +48,5 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
 ---
