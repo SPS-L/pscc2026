@@ -12,7 +12,7 @@ sections:
       title: Local Organizing Committee
       text: |
         {style="padding-top: 2rem"}
-        {{< table path="commitees/local.csv" header="true" >}}
+        {{< table path="local.csv" header="true" >}}
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
