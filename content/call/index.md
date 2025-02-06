@@ -6,6 +6,39 @@ type: landing
 
 sections:
 
+  - block: hero
+    content:
+      title: Call for Papers
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename: 
+      # Add your Call-To-Action (CTA) button and optional icon
+      cta:
+        label: 
+        url: 
+        #icon_pack: fas
+        #icon: download
+      # Optionally, add an alternative CTA link
+      cta_alt:
+        label: 
+        url: 
+      # Optionally, add a note under the Call-To-Action button
+      cta_note:
+        label:       
+      # Add your Hero text here
+      text: "\n\n \n\n"
+    design:
+      css_class: dark
+      # Choose an optional background color, gradient, image, or video
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: img/pylons.jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: markdown
     id: scope
     content:
@@ -111,11 +144,11 @@ sections:
       text: |-
         To submit your contributions please follow the instruction on the dedicated Submission Management System
 
-        - June 30st, 2023: Deadline for submission of one-page abstracts.
-        - October 1st, 2023: Deadline for full paper submission.
-        - February 1st, 2024: Authors notified about acceptance and required modifications.
-        - March 15th, 2024: Final manuscript submission.
-        - June 4 – 7, 2024: PSCC 2024, Paris, France.
+        - June 30st, 2025: Deadline for submission of one-page abstracts.
+        - October 1st, 2025: Deadline for full paper submission.
+        - February 1st, 2026: Authors notified about acceptance and required modifications.
+        - March 15th, 2026: Final manuscript submission.
+        - June 8-12, 2026: PSCC 2026, Limassol, Cyprus.
 
         Only electronically submitted abstracts and papers are considered. The format of the one-page abstract can be freely chosen by the authors. Templates for the full paper are available on the submission site.
 
