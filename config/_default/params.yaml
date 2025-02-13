@@ -48,6 +48,8 @@ header:
 
 # Site footer
 
+i_am_a_sponsor: true
+
 footer:
   copyright:
     notice: '© {year} XXIV Power Systems Computation Conference. This work is licensed under {license}'
