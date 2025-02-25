@@ -60,4 +60,23 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+  - block: markdown
+    id: dates
+    content:
+      title: Important Dates
+      text: |
+        {style="padding-top: 2rem"}
+        {{< table path="dates.csv" header="false" >}}
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+  - block: logos
+    content:
+      title: Organizing Institutes
+      subtitle: 
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: orglogos
+    design:
+      columns: '1'  
 ---
