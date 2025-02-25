@@ -13,8 +13,6 @@ authors:
 
 ---
 
-{{< toc mobile_only=true is_open=true >}}
-
 ## Overview
 
 St. Raphael Resort is located on one of the most renowned beaches in Limassol, only a short coastal drive from the lively centre of town, approximately 10 minutes away. The Larnaca International Airport is 35 minutes away, and Paphos International Airport is 55 minutes away. There are shops, restaurants and bars within walking distance and a bus stop exactly outside the hotel.
