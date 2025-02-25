@@ -6,7 +6,6 @@ date: 2025-02-02
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
-
 authors:
   - admin
 external_link: https://cyprusconferences.org/limassol
