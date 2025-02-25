@@ -71,22 +71,6 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-  - block: cta-image-paragraph
-    id: about
-    content:
-      items:
-        - title: The St Raphael Resort
-          text: St. Raphael Resort is located on one of the most renowned beaches in Limassol, only a short coastal drive from the lively centre of town, approximately 10 minutes away.
-          # Upload image to `assets/media/` and reference the filename here
-          image: straphael.jpg
-        - title: Limassol
-          text: Limassol, a city counting centuries of history, is located between two of the most renowned ancient kingdoms of the island, Amathous at the east and Kourion at the west.
-          # Upload image to `assets/media/` and reference the filename here
-          image: Limassol_Marina.jpg
-        - title: Cyprus
-          text: Cyprus is the third largest island in the Mediterranean with an area of 9.251 sq. kms. Cyprus has 5 lovely Botanical Gardens that one can visit and spend a relaxing day.
-          # Upload image to `assets/media/` and reference the filename here
-          image: botanical.jpg
   - block: logos
     content:
       title: Organizing Institutes
@@ -94,5 +78,5 @@ sections:
       # Path to the logo images within the `assets/media/` folder
       logo_folder: orglogos
     design:
-      columns: '2'    
+      columns: '1'    
 ---
