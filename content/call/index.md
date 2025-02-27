@@ -33,12 +33,20 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: img/pylons.jpg
+          filename: welcome.jpg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: true
+  - block: cta-button-list
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: Submit abstract
+          icon: academicons/arxiv
+          url: http://pscc.epfl.ch
   - block: markdown
     id: scope
     content:
