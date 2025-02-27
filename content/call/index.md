@@ -14,8 +14,8 @@ sections:
         filename: 
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: Submit abstract
-        url: http://pscc.epfl.ch
+        label: 
+        url: 
         #icon_pack: fas
         #icon: download
       # Optionally, add an alternative CTA link
@@ -39,14 +39,6 @@ sections:
           size: cover
           position: center
           parallax: true
-  - block: cta-button-list
-    content:
-      # Need a custom icon?
-      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
-      buttons:
-        - text: Submit abstract
-          icon: academicons/arxiv
-          url: http://pscc.epfl.ch
   - block: markdown
     id: scope
     content:
@@ -56,6 +48,9 @@ sections:
         The Power Systems Computation Conference addresses theoretical developments and computational aspects with respect to power systems applications. There is an emphasis on modelling and simulation for understanding a system of components, plants or actors, the interactions between them and their collective behaviour, and methods to inform decision-making in power systems.
 
         Contributions might comment on the analytical techniques, modelling challenges and complex software engineering issues, or what the analyses say in respect of today's and future power systems challenges. Thus, papers from utility and manufacturing industry engineers are just as welcome as those from academic researchers.
+
+        {{< cta cta_text="Submit abstract" cta_link="http://pscc.epfl.ch/" cta_new_tab="true" >}}
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
