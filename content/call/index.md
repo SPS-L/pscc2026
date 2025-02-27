@@ -144,21 +144,16 @@ sections:
       text: |-
         To submit your contributions please follow the instruction on the dedicated Submission Management System
 
-        - June 30st, 2025: Deadline for submission of one-page abstracts.
-        - October 1st, 2025: Deadline for full paper submission.
-        - February 1st, 2026: Authors notified about acceptance and required modifications.
-        - March 15th, 2026: Final manuscript submission.
-        - June 8-12, 2026: PSCC 2026, Limassol, Cyprus.
+        {style="padding-top: 2rem"}
+        {{< table path="../dates.csv" header="false" >}}
 
-        Only electronically submitted abstracts and papers are considered. The format of the one-page abstract can be freely chosen by the authors. Templates for the full paper are available on the submission site.
+        Abstracts should be submitted at http://pscc.epfl.ch. Full paper submission instructions will be provided following acceptance of an abstract.
+
+        Only electronically submitted abstracts and papers are considered.
 
         In order to be published in the final conference proceedings, all accepted papers must be presented at the conference by one of the named authors. English will be used for all printed material, as well as for the technical presentations and discussions.
 
-        All accepted and presented papers will be posted publicly on the PSCC website and included in a special issue of the journal Electric Power Systems Research (EPSR) indexed by ScienceDirect. Accordingly, all authors must agree to the EPSR copyright policies available at this URL: www.elsevier.com/about/policies/copyright
-
-        One of the features of PSCC is its rigorous but fair review procedure. We believe this enhances the value of PSCC by ensuring a high standard of papers and the associated discussion in every session. Attendees can therefore be confident that their investment in attending will be well worthwhile.
-
-        If your abstract was accepted, you can go ahead and upload the full paper via the EPSR submission system. Please note that you will need the ID from your abstract submission which is also stated in your abstract acceptance email. The following instructions are meant to support you in the submission process: download here.
+        All accepted and presented papers will be posted publicly on the PSCC website https://pscc-central.epfl.ch/ and included in a special issue of the journal Electric Power Systems Research (EPSR) indexed by ScienceDirect. Accordingly, all authors must agree to the EPSR copyright policies available at this URL: https://www.elsevier.com/about/policies/copyright
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
