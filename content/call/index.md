@@ -14,8 +14,8 @@ sections:
         filename: 
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: 
-        url: 
+        label: Submit abstract
+        url: http://pscc.epfl.ch
         #icon_pack: fas
         #icon: download
       # Optionally, add an alternative CTA link
