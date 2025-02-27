@@ -145,7 +145,7 @@ sections:
         To submit your contributions please follow the instruction on the dedicated Submission Management System
 
         {style="padding-top: 2rem"}
-        {{< table path="../dates.csv" header="false" >}}
+        {{< table path="dates.csv" header="false" >}}
 
         Abstracts should be submitted at http://pscc.epfl.ch. Full paper submission instructions will be provided following acceptance of an abstract.
 
