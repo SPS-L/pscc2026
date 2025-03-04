@@ -26,7 +26,7 @@ sections:
       cta_note:
         label:       
       # Add your Hero text here
-      text: "\n\n \n\n"
+      text: "\n\n \n\n \n\n \n\n \n\n"
     design:
       css_class: dark
       # Choose an optional background color, gradient, image, or video
@@ -150,13 +150,13 @@ sections:
         {style="padding-top: 2rem"}
         {{< table path="dates.csv" header="false" >}}
 
-        Abstracts should be submitted at http://pscc.epfl.ch. Full paper submission instructions will be provided following acceptance of an abstract.
-
-        Only electronically submitted abstracts and papers are considered.
+        {< cta cta_text="Submit abstract" cta_link="http://pscc.epfl.ch/" cta_new_tab="true" >}}
+        
+        Full paper submission instructions will be provided following acceptance of an abstract. Only electronically submitted abstracts and papers are considered.
 
         In order to be published in the final conference proceedings, all accepted papers must be presented at the conference by one of the named authors. English will be used for all printed material, as well as for the technical presentations and discussions.
 
-        All accepted and presented papers will be posted publicly on the PSCC website https://pscc-central.epfl.ch/ and included in a special issue of the journal Electric Power Systems Research (EPSR) indexed by ScienceDirect. Accordingly, all authors must agree to the EPSR copyright policies available at this URL: https://www.elsevier.com/about/policies/copyright
+        All accepted and presented papers will be posted publicly on the [PSCC website](https://pscc-central.epfl.ch/) and included in a special issue of the journal Electric Power Systems Research (EPSR) indexed by ScienceDirect. Accordingly, all authors must agree to the [EPSR copyright policies](https://www.elsevier.com/about/policies/copyright)
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
