@@ -149,8 +149,6 @@ sections:
 
         {style="padding-top: 2rem"}
         {{< table path="dates.csv" header="false" >}}
-
-        {< cta cta_text="Submit abstract" cta_link="http://pscc.epfl.ch/" cta_new_tab="true" >}}
         
         Full paper submission instructions will be provided following acceptance of an abstract. Only electronically submitted abstracts and papers are considered.
 
@@ -159,7 +157,7 @@ sections:
         All accepted and presented papers will be posted publicly on the [PSCC website](https://pscc-central.epfl.ch/) and included in a special issue of the journal Electric Power Systems Research (EPSR) indexed by ScienceDirect. Accordingly, all authors must agree to the [EPSR copyright policies](https://www.elsevier.com/about/policies/copyright)
 
         {{< cta cta_text="Submit abstract" cta_link="http://pscc.epfl.ch/" cta_new_tab="true" >}}
-        
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
