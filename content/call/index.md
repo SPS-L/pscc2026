@@ -26,7 +26,7 @@ sections:
       cta_note:
         label:       
       # Add your Hero text here
-      text: "\n\n \n\n \n\n \n\n \n\n"
+      text: "<br> <br> <br> <br> <br>"
     design:
       css_class: dark
       # Choose an optional background color, gradient, image, or video
