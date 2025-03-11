@@ -21,10 +21,10 @@ marketing:
     description: 'XXIV Power Systems Computation Conference'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-5M764M1FDV'
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''
+    microsoft_clarity: 'qml9zi198u'
   verification:
     google: ''
     baidu: ''
