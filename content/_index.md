@@ -28,7 +28,7 @@ sections:
       # Add your Hero text here
       text: "8-12 June, 2026 <br> Limassol, Cyprus <br> <br> <br>"
     design:
-      css_class: dark
+      css_class: light
       # Choose an optional background color, gradient, image, or video
       background:
         image:
