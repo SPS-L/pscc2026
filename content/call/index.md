@@ -45,9 +45,9 @@ sections:
       title: Conference scope
       subtitle: 
       text: |-
-        The Power Systems Computation Conference addresses theoretical developments and computational aspects with respect to power systems applications. There is an emphasis on modelling and simulation for understanding a system of components, plants or actors, the interactions between them and their collective behaviour, and methods to inform decision-making in power systems.
-
-        Contributions might comment on the analytical techniques, modelling challenges and complex software engineering issues, or what the analyses say in respect of today's and future power systems challenges. Thus, papers from utility and manufacturing industry engineers are just as welcome as those from academic researchers.
+        The Power Systems Computation Conference addresses theoretical developments and computational aspects of electric power systems research, with applications ranging from micro-grids to mega-grids. There is an emphasis on modelling and simulation for understanding a system of components, power plants and distributed energy conversion resources, or actors, the interactions between them and their collective behaviour, and methods to inform decision-making in power systems.
+        
+        Contributions may focus on analytical techniques, modelling challenges, complex software engineering issues and experimental studies as well as analyses with respect to today’s and the future’s power system challenges. Thus, papers from utility and manufacturing industry engineers are just as welcome as those from academic researchers.
 
         {{< cta cta_text="Submit abstract" cta_link="http://pscc.epfl.ch/" cta_new_tab="true" >}}
 
